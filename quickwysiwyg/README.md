@@ -64,7 +64,9 @@ function App() {
 
 MIT
 
-## Repository
+## Links
 
-[https://github.com/LyesWeb/quick-wysiwyg-editor](https://github.com/LyesWeb/quick-wysiwyg-editor)
+- [GitHub Repository](https://github.com/LyesWeb/quick-wysiwyg-editor)
+- [npm Package](https://www.npmjs.com/package/quickwysiwyg)
+- [Live Demo](https://lyesweb.github.io/quick-wysiwyg-editor/)
 
