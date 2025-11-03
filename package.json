@@ -1,0 +1,27 @@
+{
+  "name": "quickwysiwyg-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QuickWYSIWYG: A fast, lightweight, and customizable WYSIWYG editor for React",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter demo dev",
+    "build:lib": "pnpm --filter quickwysiwyg build",
+    "build:demo": "pnpm --filter demo build"
+  },
+  "keywords": [
+    "wysiwyg",
+    "editor",
+    "react",
+    "typescript",
+    "lightweight"
+  ],
+  "author": "LyesWeb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LyesWeb/quick-wysiwyg-editor.git"
+  },
+  "homepage": "https://github.com/LyesWeb/quick-wysiwyg-editor#readme"
+}
+
