@@ -1,6 +1,6 @@
 {
   "name": "quickwysiwyg-monorepo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "QuickWYSIWYG: A fast, lightweight, and customizable WYSIWYG editor for React",
   "scripts": {
@@ -24,4 +24,3 @@
   },
   "homepage": "https://github.com/LyesWeb/quick-wysiwyg-editor#readme"
 }
-
